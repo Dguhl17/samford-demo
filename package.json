@@ -1,0 +1,19 @@
+{
+  "name": "samford-demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "\u0016\u0016\u0016\u0016\u0016\u0016\u0016https://github.com/Dguhl17/samford-demo.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dguhl17/samford-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dguhl17/samford-demo/issues"
+  },
+  "homepage": "https://github.com/Dguhl17/samford-demo#readme"
+}
